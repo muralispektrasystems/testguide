@@ -1,0 +1,89 @@
+# Page QA
+
+## Test guide
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
+> 👍 Success
+>
+> Congrtulation you'are done! Once the cloud connector is succssfully added, the Wiz orchestrator will automaticcaly provision all required resouces.Congrtulation you'are done! Once the cloud connector is succssfully added, the Wiz orchestrator will automaticcaly provision all required resouces.Congrtulation you'are done! Once the cloud connector is succssfully added, the Wiz orchestrator will automaticcaly provision all required resouces
+
+
+> [!NOTE] > > Ok for now, but ask Cloudlabs to use the token so we can put everything in protected Github accounts.
+
+
+
+❓ How locked down are their cloned versions at `docs-api.cloudlabs`
+
+❓ This is my question text 
+
+:question: How locked down are their cloned versions at `docs-api.cloudlabs`
+
+ 
+-> A Cloudformation stack called **eksctl-<inject key="AzureAdUserEmail" enablecopy="false"></inject>-sensor-cluster-cluster**
+
+```
+$days = (Get-Date).AddDays(-90)
+Get-ADUser -Filter {LastLogonTimeStamp -lt $days -and enabled -eq $true} -Properties LastLogonTimeStamp
+```
+1. On the desktop, click the **Azure Portal** shortcut to sign into the Azure Portal and sign in with the following credentials:
+
+	* **Username:** <inject key="AzureAdUserEmailTESTTTTT" enableClicktoPaste="true"/>
+ 	THISVALUEHASTOBECOPIED
+	* **Password:** <inject key="AzureAdUserPassword" enableCopy="false" />
+
+1. please find your value 1 : **<inject key="Cosmos DB Account URI" />**
+
+1. please find your value 2 : **<inject key="Cosmos DB Primary Key" />**
+
+1. Please find your value 3 : 
+
+     ```
+       <inject key="Labvm DNS Name" />
+     ```
+
+1. please find next value :
+
+        > **<inject key="Labvm Admin Username" />**
+
+
+# Test guide
+
+1. On the desktop, click the **Azure Portal** shortcut to sign into the Azure Portal and sign in with the following credentials:
+
+	* **Username Azure:** <inject key="AzureAdUserEmail" cloudname="AZURE" />
+	* **Password:** <inject key="AzureAdUserPassword" />
+
+ 	* **Username GCP:** <inject key="AzureAdUserEmail" cloudname="GCP" />
+
+1. please find your value 1 : **<inject key="LabVMDNSName" style="color:#00ff00;font-weight:bold" enableCopy="true" />**
+
+1. please find your value 2 : **<inject key="Cosmos DB Primary Key" />**
+
+<pre>
+	Pre Test Here 
+</pre>
+
+1. Please find your value 3 : 
+
+        ``` <inject key="Display Name" style="color:red" enableCopy="true" /> ```
+
+1. please find next value :
+
+        > **<inject key="Tenant Domain Name" enableClicktoPaste="true" />**
+
+
+testing the normal inject tags <inject key="LabVMDNSName"> with the variables <inject key="AzureAdUserEmail" />
+	
+values: 
+<inject key="AzureAdUserEmail" enableCopy="false" />
+
+<inject key="Tenant Domain Name" enableCopy="true" />
+
+
+
+	 ``` <inject key="AzureAdUserEmail" cloudname="AZURE" enableClicktoPaste="true" /> ```
+
