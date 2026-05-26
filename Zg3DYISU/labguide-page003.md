@@ -69,5 +69,5 @@ code bock check-VHR
 
 <inline-video source="https://vimeo.com/834416286/21ab2df4f3?fl=pl&fe=cm" width="auto" height="auto" />
 
-
+<inject enableCopy="false" enableClickToPaste="true" defaultValue="azureaduserpassword"/>
 
