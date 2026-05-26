@@ -46,4 +46,22 @@ File upload
 
 [CAB_RECEIPT_RD17728597486570923](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/muralispektrasystems/testguide/TestSample/Zg3DYISU/files/CAB_RECEIPT_RD17728597486570923.pdf)
 
+| Column 1 | Column 2 |
+|----------|----------|
+|     check1     |   check2           |
+|  check3| check4
+
+
+```
+codeblocks check
+```
+
+
+
+```
+Multiple line
+{ 
+    Multiple line
+}
+```
 
