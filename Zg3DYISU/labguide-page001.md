@@ -32,7 +32,6 @@ Link
 
 ![MSFT_Azure_Immersion_Workshop_Hero_Banners_1920x300_Right.png](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/muralispektrasystems/testguide/TestSample/Zg3DYISU/images/MSFT_Azure_Immersion_Workshop_Hero_Banners_1920x300_Right.png)
 
-![image.png](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/muralispektrasystems/testguide/TestSample/Zg3DYISU/images/image.png)
 
 ![MSFT_Azure_Immersion_Workshop_Hero_Banners_1920x300_Right.png](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/muralispektrasystems/testguide/TestSample/Zg3DYISU/images/MSFT_Azure_Immersion_Workshop_Hero_Banners_1920x300_Right.png?token=8b2t1Sg45N8JBe8QNwBlyhJq)
 
