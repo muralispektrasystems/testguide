@@ -53,6 +53,7 @@ Default values
 <inject key="testKey2" value="random vaue"  />
 <inject key="" defaultvalue="">
 <span style="color: Blue"> tes </span>
+
 checkNNumber:<inject key="AzureAdUserPassword" value="StaticValue3" />
 checkNNumber:<inject key="AzureAdUserPassword" value="example@example.com" />
 checkNNumber: <inject key="AzureAdUserEmail" value="example@example.com" />
