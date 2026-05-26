@@ -7,10 +7,6 @@ Add Custom Tags
 <question source="labguidepage002qFeBhDIK" />
 <grouped-questions source="labguidepage002_Group_LQHdihia" />
 
-<validation step="0024fa0d-8f9c-45de-9a15-c1f5132d66e3" />
-<validation step="c49dabe3-6c5d-481b-8924-c61e39dad724" />
-<validation step="ed8fe878-c655-44f6-9a69-b667f7d4fce5" />
-
 
 https://vimeo.com/834416286/21ab2df4f3
 
@@ -21,3 +17,5 @@ https://vimeo.com/834416286/21ab2df4f3
 <question source="labguidepage002zCUMHcXq" />
 
 
+<validation step="58710008-ab18-4089-8c9d-e0e740ebcec1" />
+<validation step="a940a0cc-817f-409d-9905-806a217c3c6b" />
