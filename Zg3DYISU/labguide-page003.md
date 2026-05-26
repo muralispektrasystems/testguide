@@ -71,3 +71,5 @@ code bock check-VHR
 
 <inject enableCopy="false" enableClickToPaste="true" defaultValue="azureaduserpassword"/>
 
+https://images.pexels.com/photos/18864127/pexels-photo-18864127.jpeg
+
