@@ -75,4 +75,4 @@ https://images.pexels.com/photos/18864127/pexels-photo-18864127.jpeg
 
 https://images.pexels.com/photos/35829198/pexels-photo-35829198.jpeg
 
-
+<inject enableCopy="true" enableClickToPaste="false" defaultValue="azureaduseremail"/>
