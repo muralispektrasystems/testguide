@@ -13,3 +13,5 @@
 ![jpeg](https://images.pexels.com/photos/20523435/pexels-photo-20523435.jpeg)
 
 ![png](https://logos.flamingtext.com/Word-Logos/test-design-sketch-name.png)
+
+<inject key="azureaduseremail" cloudname="AZURE" enableCopy="false" enableClickToPaste="false"/>
