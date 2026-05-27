@@ -10,3 +10,6 @@
 
 <inline-video source="https://vimeo.com/836911141" width="auto" height="auto" />
 
+![jpeg](https://images.pexels.com/photos/20523435/pexels-photo-20523435.jpeg)
+
+![png](https://logos.flamingtext.com/Word-Logos/test-design-sketch-name.png)
