@@ -1,0 +1,1 @@
+![new.webp](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/muralispektrasystems/testguide/TestSample/4ZoxhRSU/images/images/new.webp?token=8b2t1Sg45N8JBe8QNwBlyhJq)
