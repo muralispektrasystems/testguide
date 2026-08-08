@@ -5,7 +5,7 @@ Question Type : Text Input
 Write few sentenses on compiler
 
 ## Answers
- : 0
+ : 10
 
 ## Number of Retries
 0
