@@ -1,3 +1,28 @@
-Emerson opens his 1836 edition of his essay “Nature” with an epigraph from the philosopher Plotinus, suggesting that nature is a reflection of humankind. The rest of his essay focuses on the relationship between people and nature.
+*******Emerson opens his 1836 edition of his essay “Nature” with an epigraph from the philosopher Plotinus, suggesting that nature is a reflection of humankind. The rest of his essay focuses on the relationship between people and nature.*
+*
+*In the Introduction, Emerson suggests that rather than relying on religion and tradition to understand the world, people should spend time in nature and intuit answers for themselves. But people shouldn’t just observe nature—they should also actively consider “to what end is nature” (that is, what nature means or does). To Emerson, all forms of science try to answer this question and find a “theory of nature.” And though it might sound unscientific, Emerson thinks that seeking “abstract truth” through firsthand experience in nature is the best way to craft such a theory*.******
 
-In the Introduction, Emerson suggests that rather than relying on religion and tradition to understand the world, people should spend time in nature and intuit answers for themselves. But people shouldn’t just observe nature—they should also actively consider “to what end is nature” (that is, what nature means or does). To Emerson, all forms of science try to answer this question and find a “theory of nature.” And though it might sound unscientific, Emerson thinks that seeking “abstract truth” through firsthand experience in nature is the best way to craft such a theory.
+
+~~newtest~~
+
+
+# headings
+
+### heading
+## heading
+###### newtest
+
+
+- one 
+- two
+- three
+- four
+- 
+
+1. one 
+2. two
+3. three
+4. four
+
+
+
