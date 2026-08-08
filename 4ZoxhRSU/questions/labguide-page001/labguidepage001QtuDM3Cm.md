@@ -10,8 +10,8 @@ Option 2: iphone17
 Option 3: iphone15
 
 ## Answers
-Option 2 : 0
-Option 3 : 0
+Option 2 : 10
+Option 3 : 10
 
 ## Correct Answer Feedback
 correct
